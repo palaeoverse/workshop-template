@@ -12,6 +12,7 @@ permissions:
 
 jobs:
   build-deploy:
+    if: github.repository != 'palaeoverse/workshop-template'
     runs-on: ubuntu-latest
     
     steps:
