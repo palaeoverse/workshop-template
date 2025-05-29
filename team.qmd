@@ -1,0 +1,30 @@
+---
+title: "Meet the event organisers"
+fig-align: left
+toc: false
+order: 3
+---
+
+This edition of the Workshop event is organised and led by the following members of the Palaeoverse team.
+
+::: {.grid}
+
+::: {.g-col-4}
+
+![PLACEHOLDER](https://palaeoverse.org/images/logo.png)
+
+:::
+
+::: {.g-col-4}
+
+![PLACEHOLDER](https://palaeoverse.org/images/logo.png)
+
+:::
+
+::: {.g-col-4}
+
+![PLACEHOLDER](https://palaeoverse.org/images/logo.png)
+
+:::
+
+:::
