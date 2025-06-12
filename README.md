@@ -48,4 +48,4 @@ So, we're doing another workshop are we!? Follow this helpful checklist to use t
 └── .gitignore
 ```
 
-![](https://palaeoverse.org/images/logo.png){width="20%"}
+![](https://palaeoverse.org/images/logo.png)
