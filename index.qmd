@@ -1,13 +1,13 @@
 ---
-title: "WORKSHOP SHORT TITLE"
-subtitle: "WORKSHOP EXTENDED TITLE"
+title: "[INSERT WORKSHOP SHORT TITLE]"
+subtitle: "[INSERT WORKSHOP EXTENDED TITLE]"
 toc: true
 order: 1
 ---
 
-**[WORKSHOP DATE/TIME]**
+**[INSERT WORKSHOP DATE/TIME]**
 
-[WORKSHOP LOCATION]
+[INSERT WORKSHOP LOCATION]
 
 # Welcome
 
@@ -17,7 +17,44 @@ order: 1
 
 The event starts at XXX on the XXX and will take place at XXX.
 
-The full schedule for the workshop is available [here](schedule.qmd).
+The full schedule for the workshop is available [here](#schedule).
+
+## Schedule
+
+| Time            | Event                       |
+|-----------------|-----------------------------|
+| **PLACEHOLDER** | **PLACEHOLDER**             |
+| **PLACEHOLDER** | **PLACEHOLDER**             |
+| **PLACEHOLDER** | **PLACEHOLDER**             |
+| **PLACEHOLDER** | **PLACEHOLDER**             |
+| **PLACEHOLDER** | **PLACEHOLDER**             |
+| **PLACEHOLDER** | **PLACEHOLDER**             |
+
+## Instructors
+
+This edition of the Workshop event is organised and led by the following members of the Palaeoverse team.
+
+::: {.grid}
+
+::: {.g-col-4}
+
+![INSTRUCTOR 1](https://palaeoverse.org/images/logo.png)
+
+:::
+
+::: {.g-col-4}
+
+![INSTRUCTOR 2](https://palaeoverse.org/images/logo.png)
+
+:::
+
+::: {.g-col-4}
+
+![INSTRUCTOR 3](https://palaeoverse.org/images/logo.png)
+
+:::
+
+:::
 
 ## Installation
 
@@ -30,6 +67,6 @@ install.packages()
 
 ## Acknowledgements
 
-This event is run by the [Palaeoverse](https://palaeoverse.org) ...
+This event is run by the [Palaeoverse](https://palaeoverse.org) and supported by...
 
 ![](https://palaeoverse.org/images/logo.png){width="20%"}
