@@ -2,7 +2,7 @@
 title: "[UNIT SHORT NAME]"
 subtitle: "[UNIT LONG NAME]"
 toc: true
-order: 6
+order: 5
 ---
 
 # Add content
