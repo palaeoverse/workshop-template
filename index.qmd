@@ -2,7 +2,7 @@
 title: "[INSERT WORKSHOP SHORT TITLE]"
 subtitle: "[INSERT WORKSHOP EXTENDED TITLE]"
 toc: true
-order: 1
+order: 99
 ---
 
 **[INSERT WORKSHOP DATE/TIME]**
